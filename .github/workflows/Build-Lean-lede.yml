@@ -10,7 +10,7 @@ on:
         - cron: 0 */6 * * *
 
 jobs:
-  name:红米AC2100の编译任务~
+  红米AC2100の编译任务~:
     runs-on: ubuntu-latest
     steps:
     - name: 在准备环境~嘿咻;-)
